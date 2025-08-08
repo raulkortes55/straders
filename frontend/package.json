@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.15.6",
+    "axios": "^1.4.0",
+    "core-js": "^3.30.2",
+    "quasar": "^2.12.5",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@quasar/cli": "^1.4.0",
+    "@quasar/app-webpack": "^3.12.2",
+    "@babel/core": "^7.22.9",
+    "@vue/compiler-sfc": "^3.3.4",
+    "webpack": "^5.88.1"
+  }
+}
